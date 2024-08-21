@@ -1,4 +1,4 @@
-list = [6, 34, 4, 12, 5, 2]
+list = [4,5,3,2]
 summenliste = []
 
 def summenproblem(n):
@@ -17,4 +17,4 @@ def summenproblem(n):
         list.pop(0)
         summenliste.clear()
 
-summenproblem(9)
+summenproblem(6)
